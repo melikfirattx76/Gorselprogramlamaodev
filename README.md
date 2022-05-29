@@ -26,4 +26,5 @@ butonuna basıyoruz ve gerisini selenium bizim için hallediyor.
 kullanıyorsanız çözüm gezginine sağ tıklayıp manage nuget packages for solution kısmından Selenium.WebDriver.ChromeDriver isimli
 paketi seçip kullandığınız google chrome sürümünü version kısmından install edip kurulu olan 102.0.5005.6100 sürümünü uninstall etmelisiniz.
 
+Selenium çalıştığını gösteren video:
 ![Selenium](https://user-images.githubusercontent.com/106485733/170883953-8ce08934-cc2b-441b-9869-cdfcc0588f65.gif)
