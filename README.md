@@ -18,7 +18,7 @@ Araştırma konuma internette gezerken denk geldim ve inceledikten sonra beğend
 Selenium Nedir?
 
 Farklı tarayıcılarda yada ortamda web uygulamalarını test etmek için kullanılan test çerçevesidir(framework). Başka bir deyişle, web uygulamalarının kalite güvencesi için kullanılan yazılım test otomasyon araçlar paketidir. Ayrıca açık kaynaklı yazılım olduğu için ücretsizdir. Test Komut Dosyaları için C#, Pyhton, Java gibi birden fazla programlama dili kullanılır
-![Selenium](https://user-images.githubusercontent.com/106485733/172645815-aaa45ddb-e794-49f1-b569-6149c5e06747.gif)
+
 
 Projemde arama kısmında ekli olan arabalar içinde istediğimiz arabayı bulamadıysak en alttaki kutucuğa istediğimiz araba ismini girerek İnternette arama yap 
 butonuna basıyoruz ve gerisini selenium bizim için hallediyor.
@@ -28,5 +28,7 @@ kullanıyorsanız çözüm gezginine sağ tıklayıp manage nuget packages for s
 paketi seçip kullandığınız google chrome sürümünü version kısmından install edip kurulu olan 102.0.5005.6100 sürümünü uninstall etmelisiniz.
 
 Selenium çalıştığını gösteren video:
+!https://user-images.githubusercontent.com/106485733/172646567-ca682705-df08-47a7-aac6-a85c220e99e1.gif
+!(https://user-images.githubusercontent.com/106485733/172646567-ca682705-df08-47a7-aac6-a85c220e99e1.gif)
 
 
