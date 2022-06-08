@@ -28,7 +28,5 @@ kullanıyorsanız çözüm gezginine sağ tıklayıp manage nuget packages for s
 paketi seçip kullandığınız google chrome sürümünü version kısmından install edip kurulu olan 102.0.5005.6100 sürümünü uninstall etmelisiniz.
 
 Selenium çalıştığını gösteren video:
-!https://user-images.githubusercontent.com/106485733/172646567-ca682705-df08-47a7-aac6-a85c220e99e1.gif
-!(https://user-images.githubusercontent.com/106485733/172646567-ca682705-df08-47a7-aac6-a85c220e99e1.gif)
-
-
+https://user-images.githubusercontent.com/106485733/172645815-aaa45ddb-e794-49f1-b569-6149c5e06747.gif
+![Selenium](https://user-images.githubusercontent.com/106485733/172645815-aaa45ddb-e794-49f1-b569-6149c5e06747.gif)
